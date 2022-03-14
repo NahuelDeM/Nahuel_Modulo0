@@ -1,30 +1,30 @@
-Actividad Nº Nos encontramos con un diseño simple y sofisticado, un encabezado bonito y 
-estético que no se vaya mucho por las ramas y sea fácil de entender para cualquier usuario
+Actividad NÂº6: Nos encontramos con un diseÃ±o simple y sofisticado, un encabezado bonito y 
+estÃ©tico que no se vaya mucho por las ramas y sea fÃ¡cil de entender para cualquier usuario
 que ingresa por primera vez y una foto para contrastar en la portada en blanco y negro para 
-dar una impresión de profesionalismo.
-Más abajo podemos ver una pequeña descripción de mi persona y a que me dedico.
-Justo debajo se encuentra una galería con todos mis proyectos, videos, fotos, etc.
-Para culminar un pie de página donde puedes suscribirte y obtener mi contenido, datos de 
-contacto como son mi numero telefónico y un correo para contactarme.
+dar una impresiÃ³n de profesionalismo.
+MÃ¡s abajo podemos ver una pequeÃ±a descripciÃ³n de mi persona y a que me dedico.
+Justo debajo se encuentra una galerÃ­a con todos mis proyectos, videos, fotos, etc.
+Para culminar un pie de pÃ¡gina donde puedes suscribirte y obtener mi contenido, datos de 
+contacto como son mi numero telefÃ³nico y un correo para contactarme.
 
-Actividad Nº 7: En primera instancia en la página de inicio contamos con un encabezado 
+Actividad NÂº 7: En primera instancia en la pÃ¡gina de inicio contamos con un encabezado 
 con el nombre de la empresa (ABC), contamos con un logo original no antes visto 
-(Todos los derechos reservados), contamos con un menú desplegable, un barra de búsqueda,
-el carrito, favoritos, y un lugar donde iniciar sesión. 
+(Todos los derechos reservados), contamos con un menÃº desplegable, un barra de bÃºsqueda,
+el carrito, favoritos, y un lugar donde iniciar sesiÃ³n. 
 Luego podemos ver un afiche de vuelta a clases con descuentasos que no te podes perder, 
-en caso de no sentirse a gusto con el menú expandible puedes usar las categorías justo
-debajo del afiche de vuelta a clase, un pequeño catalogo de productos destacados, y ofertas
-por tiempo limitado. Para finalizar tenemos un pie de página donde puedes registrarte
-para recibir ofertas a tu correo, nuestra dirección y términos y condiciones.
+en caso de no sentirse a gusto con el menÃº expandible puedes usar las categorÃ­as justo
+debajo del afiche de vuelta a clase, un pequeÃ±o catalogo de productos destacados, y ofertas
+por tiempo limitado. Para finalizar tenemos un pie de pÃ¡gina donde puedes registrarte
+para recibir ofertas a tu correo, nuestra direcciÃ³n y tÃ©rminos y condiciones.
 
-Al ingresar al carrito: Vaya parece que no agregaste ningún articulo al carrito aún, 
-No esperes más y mira las ofertas que tiene nuestra página en el inicio =). (Se mantienen
-el encabezado y el pie de página)
+Al ingresar al carrito: Vaya parece que no agregaste ningÃºn articulo al carrito aÃºn, 
+No esperes mÃ¡s y mira las ofertas que tiene nuestra pÃ¡gina en el inicio =). (Se mantienen
+el encabezado y el pie de pÃ¡gina)
 
-Catalogo de un producto: Aquí puedes ver más detallado un producto en cuestión en este caso
-el nuevo y reciente Samsung S22, vaya aún está en preventa apurate antes de que se agote :D,
-Tenemos algunas fotos, descripción del dispositivo su precio y un descuento del 14% (Una locura).
-(Se mantienen el encabezado y el pie de página)
+Catalogo de un producto: AquÃ­ puedes ver mÃ¡s detallado un producto en cuestiÃ³n en este caso
+el nuevo y reciente Samsung S22, vaya aÃºn estÃ¡ en preventa apurate antes de que se agote :D,
+Tenemos algunas fotos, descripciÃ³n del dispositivo su precio y un descuento del 14% (Una locura).
+(Se mantienen el encabezado y el pie de pÃ¡gina)
 
 
 
